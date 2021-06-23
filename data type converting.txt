@@ -1,0 +1,500 @@
+#converting Integer to float
+integer_one = 1
+convert_to_float = float(integer_one)
+print(integer_one,convert_to_float)
+
+integer_two = 2
+convert_to_float = float(integer_two)
+print(integer_two,convert_to_float)
+
+integer_three = 3
+convert_to_float = float(integer_three)
+print(integer_three,convert_to_float)
+
+integer_four = 4
+convert_to_float = float(integer_four)
+print(integer_four,convert_to_float)
+
+integer_five = 5
+convert_to_float = float(integer_five)
+print(integer_five,convert_to_float)
+
+integer_six = 6
+convert_to_float = float(integer_six)
+print(integer_six,convert_to_float)
+
+integer_seven = 7
+convert_to_float = float(integer_seven)
+print(integer_seven,convert_to_float)
+
+integer_eight = 8
+convert_to_float = float(integer_eight)
+print(integer_eight,convert_to_float)
+
+integer_nine = 9
+convert_to_float = float(integer_nine)
+print(integer_nine,convert_to_float)
+
+integer_ten = 10
+convert_to_float = float(integer_ten)
+print(integer_ten,convert_to_float)
+
+integer_eleven= 11
+convert_to_float = float(integer_eleven)
+print(integer_eleven,convert_to_float)
+
+integer_twelve = 12
+convert_to_float = float(integer_twelve)
+print(integer_twelve,convert_to_float)
+
+integer_thirteen = 13
+convert_to_float = float(integer_thirteen)
+print(integer_thirteen,convert_to_float)
+
+integer_fourteen = 14
+convert_to_float = float(integer_fourteen)
+print(integer_fourteen,convert_to_float)
+
+integer_fivteen = 15
+convert_to_float = float(integer_fivteen)
+print(integer_fivteen,convert_to_float)
+
+integer_sixteen = 16
+convert_to_float = float(integer_sixteen)
+print(integer_sixteen,convert_to_float)
+
+integer_seventeen = 17
+convert_to_float = float(integer_seventeen)
+print(integer_seventeen,convert_to_float)
+
+integer_eighteen = 18
+convert_to_float = float(integer_eighteen)
+print(integer_eighteen,convert_to_float)
+
+integer_nineteen = 19
+convert_to_float = float(integer_nineteen)
+print(integer_nineteen,convert_to_float)
+
+integer_twenty = 20
+convert_to_float = float(integer_twenty)
+print(integer_twenty,convert_to_float)
+
+integer_twentyone = 21
+convert_to_float = float(integer_twentyone)
+print(integer_twentyone,convert_to_float)
+
+integer_twentytwo = 22
+convert_to_float = float(integer_twentytwo)
+print(integer_twentytwo,convert_to_float)
+
+integer_twentythree = 23
+convert_to_float = float(integer_twentythree)
+print(integer_twentythree,convert_to_float)
+
+integer_twentyfour = 24
+convert_to_float = float(integer_twentyfour)
+print(integer_twentyfour,convert_to_float)
+
+integer_twentyfive = 25
+convert_to_float = float(integer_twentyfive)
+print(integer_twentyfive,convert_to_float)
+
+#converting float to Integer
+float_one = 1.0
+convert_to_integer = int(float_one)
+print(float_one,convert_to_integer)
+
+float_two = 2.0
+convert_to_integer = int(float_two)
+print(float_two,convert_to_integer)
+
+float_three = 3.0
+convert_to_integer = int(float_three)
+print(float_three,convert_to_integer)
+
+float_four = 4.0
+convert_to_integer = int(float_four)
+print(float_four,convert_to_integer)
+
+float_five = 5.0
+convert_to_integer = int(float_five)
+print(float_five,convert_to_integer)
+
+float_six = 6.0
+convert_to_integer = int(float_six)
+print(float_six,convert_to_integer)
+
+float_seven = 7.0
+convert_to_integer = int(float_seven)
+print(float_seven,convert_to_integer)
+
+float_eight = 8.0
+convert_to_integer = int(float_eight)
+print(float_eight,convert_to_integer)
+
+float_nine = 9.0
+convert_to_integer = int(float_nine)
+print(float_nine,convert_to_integer)
+
+float_ten = 10.0
+convert_to_integer = int(float_ten)
+print(float_ten,convert_to_integer)
+
+float_eleven = 11.0
+convert_to_integer = int(float_eleven)
+print(float_eleven,convert_to_integer)
+
+float_twelve = 12.0
+convert_to_integer = int(float_twelve)
+print(float_twelve,convert_to_integer)
+
+float_thirteen = 13.0
+convert_to_integer = int(float_thirteen)
+print(float_thirteen,convert_to_integer)
+
+float_fourteen = 14.0
+convert_to_integer = int(float_fourteen)
+print(float_fourteen,convert_to_integer)
+
+float_fivteen = 15.0
+convert_to_integer = int(float_fivteen)
+print(float_fivteen,convert_to_integer)
+
+float_sixteen = 16.0
+convert_to_integer = int(float_sixteen)
+print(float_sixteen,convert_to_integer)
+
+float_seventeen = 17.0
+convert_to_integer = int(float_seventeen)
+print(float_seventeen,convert_to_integer)
+
+float_eighteen = 18.0
+convert_to_integer = int(float_eighteen)
+print(float_eighteen,convert_to_integer)
+
+float_nineteen = 19.0
+convert_to_integer = int(float_nineteen)
+print(float_nineteen,convert_to_integer)
+
+float_twenty = 20.0
+convert_to_integer = int(float_twenty)
+print(float_twenty,convert_to_integer)
+
+float_twentyone = 21.0
+convert_to_integer = int(float_twentyone)
+print(float_twentyone,convert_to_integer)
+
+float_twentytwo = 22.0
+convert_to_integer = int(float_twentytwo)
+print(float_twentytwo,convert_to_integer)
+
+float_twentythree = 23.0
+convert_to_integer = int(float_twentythree)
+print(float_twentythree,convert_to_integer)
+
+float_twentyfour = 24.0
+convert_to_integer = int(float_twentyfour)
+print(float_twentyfour,convert_to_integer)
+
+float_twentyfive = 25.0
+convert_to_integer = int(float_twentyfive)
+print(float_twentyfive,convert_to_integer)
+
+#converting Integer to complex
+integer_one = 1
+convert_to_complex = complex (integer_one)
+print(integer_one,convert_to_complex)
+
+integer_two = 2
+convert_to_complex = complex (integer_two)
+print(integer_two,convert_to_complex)
+
+integer_three = 3
+convert_to_complex = complex (integer_three)
+print(integer_three,convert_to_complex)
+
+integer_four = 4
+convert_to_complex = complex(integer_four)
+print(integer_four,convert_to_complex)
+
+integer_five = 5
+convert_to_complex = complex(integer_five)
+print(integer_five,convert_to_complex)
+
+integer_six = 6
+convert_to_complex = complex(integer_six)
+print(integer_six,convert_to_complex)
+
+integer_seven = 7
+convert_to_complex = complex(integer_seven)
+print(integer_seven,convert_to_complex)
+
+integer_eight = 8
+convert_to_complex = complex(integer_eight)
+print(integer_eight,convert_to_complex)
+
+integer_nine = 9
+convert_to_complex = complex(integer_nine)
+print(integer_nine,convert_to_complex)
+
+integer_ten = 10
+convert_to_complex = complex(integer_ten)
+print(integer_ten,convert_to_complex)
+
+integer_eleven= 11
+convert_to_complex = complex(integer_eleven)
+print(integer_eleven,convert_to_complex)
+
+integer_twelve = 12
+convert_to_complex = complex(integer_twelve)
+print(integer_twelve,convert_to_complex)
+
+integer_thirteen = 13
+convert_to_complex = complex(integer_thirteen)
+print(integer_thirteen,convert_to_complex)
+
+integer_fourteen = 14
+convert_to_complex = complex(integer_fourteen)
+print(integer_fourteen,convert_to_complex)
+
+integer_fivteen = 15
+convert_to_complex = complex(integer_fivteen)
+print(integer_fivteen,convert_to_complex)
+
+integer_sixteen = 16
+convert_to_complex = complex(integer_sixteen)
+print(integer_sixteen,convert_to_complex)
+
+integer_seventeen = 17
+convert_to_complex = complex(integer_seventeen)
+print(integer_seventeen,convert_to_complex)
+
+integer_eighteen = 18
+convert_to_complex = complex(integer_eighteen)
+print(integer_eighteen,convert_to_complex)
+
+integer_nineteen = 19
+convert_to_complex = complex(integer_nineteen)
+print(integer_nineteen,convert_to_complex)
+
+integer_twenty = 20
+convert_to_complex = complex(integer_twenty)
+print(integer_twenty,convert_to_complex)
+
+integer_twentyone = 21
+convert_to_complex = complex(integer_twentyone)
+print(integer_twentyone,convert_to_complex)
+
+integer_twentytwo = 22
+convert_to_complex = complex(integer_twentytwo)
+print(integer_twentytwo,convert_to_complex)
+
+integer_twentythree = 23
+convert_to_complex = complex(integer_twentythree)
+print(integer_twentythree,convert_to_complex)
+
+integer_twentyfour = 24
+convert_to_complex = complex(integer_twentyfour)
+print(integer_twentyfour,convert_to_complex)
+
+integer_twentyfive = 25
+convert_to_complex = complex(integer_twentyfive)
+print(integer_twentyfive,convert_to_complex)
+
+#converting float to complex
+float_one = 1.0
+convert_to_complex = complex(float_one)
+print(float_one,convert_to_complex)
+
+float_two = 2.0
+convert_to_complex = complex(float_two)
+print(float_two,convert_to_complex)
+
+float_three = 3.0
+convert_to_complex = complex(float_three)
+print(float_three,convert_to_complex)
+
+float_four = 4.0
+convert_to_complex = complex(float_four)
+print(float_four,convert_to_complex)
+
+float_five = 5.0
+convert_to_complex = complex(float_five)
+print(float_five,convert_to_complex)
+
+float_six = 6.0
+convert_to_complex = complex(float_six)
+print(float_six,convert_to_complex)
+
+float_seven = 7.0
+convert_to_complex = complex(float_seven)
+print(float_seven,convert_to_complex)
+
+float_eight = 8.0
+convert_to_complex = complex(float_eight)
+print(float_eight,convert_to_complex)
+
+float_nine = 9.0
+convert_to_complex = complex(float_nine)
+print(float_nine,convert_to_complex)
+
+float_ten = 10.0
+convert_to_complex = complex(float_ten)
+print(float_ten,convert_to_complex)
+
+float_eleven = 11.0
+convert_to_complex = complex(float_eleven)
+print(float_eleven,convert_to_complex)
+
+float_twelve = 12.0
+convert_to_complex = complex(float_twelve)
+print(float_twelve,convert_to_complex)
+
+float_thirteen = 13.0
+convert_to_complex = complex(float_thirteen)
+print(float_thirteen,convert_to_complex)
+
+float_fourteen = 14.0
+convert_to_complex = complex(float_fourteen)
+print(float_fourteen,convert_to_complex)
+
+float_fivteen = 15.0
+convert_to_complex = complex(float_fivteen)
+print(float_fivteen,convert_to_complex)
+
+float_sixteen = 16.0
+convert_to_complex = complex(float_sixteen)
+print(float_sixteen,convert_to_complex)
+
+float_seventeen = 17.0
+convert_to_complex = complex(float_seventeen)
+print(float_seventeen,convert_to_complex)
+
+float_eighteen = 18.0
+convert_to_complex = complex(float_eighteen)
+print(float_eighteen,convert_to_complex)
+
+float_nineteen = 19.0
+convert_to_complex = complex(float_nineteen)
+print(float_nineteen,convert_to_complex)
+
+float_twenty = 20.0
+convert_to_complex = complex(float_twenty)
+print(float_twenty,convert_to_complex)
+
+float_twentyone = 21.0
+convert_to_complex = complex(float_twentyone)
+print(float_twentyone,convert_to_complex)
+
+float_twentytwo = 22.0
+convert_to_complex = complex(float_twentytwo)
+print(float_twentytwo,convert_to_complex)
+
+float_twentythree = 23.0
+convert_to_complex = complex(float_twentythree)
+print(float_twentythree,convert_to_complex)
+
+float_twentyfour = 24.0
+convert_to_complex = complex(float_twentyfour)
+print(float_twentyfour,convert_to_complex)
+
+float_twentyfive = 25.0
+convert_to_complex = complex(float_twentyfive)
+print(float_twentyfive,convert_to_complex)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
